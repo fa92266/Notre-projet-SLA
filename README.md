@@ -300,6 +300,7 @@ Les interfaces graphiques ont été conçues avec **Figma** avant le développem
 Vous pouvez ajouter ici :
 
 - 🏠 Page d'accueil
+https://github.com/user-attachments/assets/9532e79c-f65d-4fa2-867c-45d9067102ae
 - 🔐 Connexion
 - 📊 Tableau de bord
 - 👨‍🎓 Gestion des étudiants
